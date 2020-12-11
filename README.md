@@ -20,3 +20,11 @@
 + ### 你设计一个MQ，说下思路。
 + ### 来，给你一张纸，你写下红黑树的旋转。
 + ### 如果现在设计一个网站，需要承受100万并发用户访问，你的服务器配置应该是怎样？
+
+
+## 优质博客：
++ #### [https://crossoverjie.top/](https://crossoverjie.top/)
++ #### [https://www.cnblogs.com/demingblog/](https://www.cnblogs.com/demingblog/)
++ #### [https://blog.csdn.net/justloveyou_](https://blog.csdn.net/justloveyou_)
++ #### [https://segmentfault.com/u/ccww](https://segmentfault.com/u/ccww)
++ #### [https://segmentfault.com/u/chengxuwang_5cecfc991808d](https://segmentfault.com/u/chengxuwang_5cecfc991808d)
